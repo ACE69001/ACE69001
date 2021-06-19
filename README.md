@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ACE69001
 - 👀 I’m interested in Creating Things.
 - 🌱 I’m currently learning JavaScipt.
-- 💞️ I’m looking to collaborate on small-JavaScript projects for Begineers.
+- 💞️ I’m looking to collaborate on small-JavaScript projects for Beginners.
 - 📫 How to reach me by acezzz111111@gmail.com
 
 <!---
